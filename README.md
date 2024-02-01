@@ -1,6 +1,6 @@
 # Ultre_Marathon_Analysis
 
-## chart of the project
+## charts of the project
 
 ![Count of the Race Length](./output/Rplot.png)
 ![Athlete average speed in the 50km](./output/Rplot01.png)
